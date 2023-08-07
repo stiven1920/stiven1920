@@ -3,7 +3,7 @@
 
 Mi nombre es **Jhersson Stiven Jojoa Lozano** y soy de Colombia - Quindio (Armenia)
 
-Actualmente soy estudiante de los ultimos semestres de la institucion universitaria EAM y trabajo para empresa mayasoft de bucaramanga, via remoto. Me gusta el conocimiento constante, lo cual me ayudar a tener retos personales y hasta no cumplirlos no quedo contento, trabajo con tecnologias como java y node para el backend y para el fronted trabajo con angular, html y ccs.
+Actualmente soy estudiante de los ultimos semestres de la institucion universitaria EAM y trabajo para empresa mayasoft de bucaramanga, via remoto. Me gusta el conocimiento constante, lo cual me ayudar a tener retos personales y hasta no cumplirlos no quedo contento, trabajo con tecnologias como java y node para el backend y para el fronted trabajo con angular, html y ccs. Pero me dedico mas que todo hacer automatizaciones con la libreria de javaScript pupeeteers
 
 En mis tiempos libres trato de hacer algo diferente que no sea el computador o estar en la casa, me gusta ir al gym, ir a trotar y montar cicla, de ves en cuando me gustar desempolvar la guitarra y sacar algunos temas que sepa.
 
