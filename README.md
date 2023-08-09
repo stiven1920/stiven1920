@@ -19,7 +19,7 @@ En mis tiempos libres trato de hacer algo diferente que no sea el computador o e
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="izquierda">
-<a href="stiven-jojoa-lozano-48b7191bb" target="blank">
+<a href="https://linkedin.com/in/stiven-jojoa-lozano-48b7191bb" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stiven jojoa lozano" height="30" width="40" /></a>
 
 <a href="https://fb.com/profile.php?id=100002268869222" target="blank">
